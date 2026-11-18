@@ -18,3 +18,12 @@ h3 {
     font-size: 23px;
     color: red;
 }
+.cat-btns {
+    border: none;
+    cursor: pointer;
+
+}
+.cat-btns:active {
+    border-bottom: 2px solid red;
+    padding-bottom: 5px;
+}

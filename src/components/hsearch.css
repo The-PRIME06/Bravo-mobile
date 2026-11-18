@@ -13,3 +13,61 @@
     gap: 5px;
     align-items: center;
 }
+.ic {
+    /* color: black; */
+    font-size: 15px
+}
+.ent {
+    color: white;
+    border: none;
+    background-color: red;
+    padding: 10px 38px;
+    border-radius: 12px;
+}
+.qidir {
+    border: none;
+    color: white;
+    background-color: red;
+    padding: 10px 17px;
+    border-radius: 0 12px 12px 0;
+}
+.qidir:active {
+    background-color: orangered;
+}
+.searching {
+    color: black;
+    border: none;
+    padding: 7px;
+
+}
+.searching1 {
+    color: black;
+    border: none;
+    border-radius: 12px 0 0 12px;
+    padding: 7px;
+
+}
+.search {
+    border: 1px solid black;
+    border-radius: 12px;
+    
+}
+.black {
+    color: black;
+}
+.search-box {
+    display: flex;
+    justify-content: space-between;
+    margin: 28px 0;
+}
+#icons {
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+    gap: 40px;
+
+}
+option {
+    display: flex;
+    border-radius: 12px ;
+}

@@ -6,13 +6,12 @@ const Categ = () => {
     <section>
       <div className="container">
         <ul className='cat-list'>
-          <li><h3>Barchasi</h3></li>
-          <li><h3>Quloqchinlar</h3></li>
-          <li><h3>G'iloflar</h3></li>
-          <li><h3>Quvvatlagichlar</h3></li>
-          <li><h3>Karnaylar</h3></li>
-          <li><h3>Himoya shishalar</h3></li>
-
+          <li><button className='cat-btns'><h3>Barchasi</h3></button></li>
+          <li><button className='cat-btns'><h3>Quloqchinlar</h3></button></li>
+          <li><button className='cat-btns'><h3>G'iloflar</h3></button></li>
+          <li><button className='cat-btns'><h3>Quvvatlagichlar</h3></button></li>
+          <li><button className='cat-btns'><h3>Karnaylar</h3></button></li>
+          <li><button className='cat-btns'><h3>Himoya Shishalari</h3></button></li>
         </ul>
       </div>
     </section>

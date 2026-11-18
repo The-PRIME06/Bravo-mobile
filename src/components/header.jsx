@@ -17,7 +17,7 @@ const Header = () => {
             <li className='head-items'><i className="fa-brands fa-telegram"></i><a href="https://t.me/bravo_adminn" target="_blank" rel="noopener noreferrer">Admin bilan bog‘lanish</a></li>
             <li className='head-items'><i className="fa-solid fa-computer"></i><a href="https://t.me/the_prime_o6">Dasturchi</a></li>
             <li className='head-items'><i className="fa-solid fa-phone"></i><a href="tel:+998905547270">Aloqa uchun</a></li>
-            <li className='ic'><i class="fa-regular fa-heart"></i><i class="fa-solid fa-cart-shopping"></i></li>
+     
           </ul>
         </nav>
       </div>
